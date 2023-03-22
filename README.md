@@ -1,2 +1,1 @@
-# 2-A-NM
-Site criativo
+# site-criativo-alura
